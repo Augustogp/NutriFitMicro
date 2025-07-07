@@ -1,1 +1,2 @@
-# NutriFitMicro
+# NutriFitMicrotest
+rule test
